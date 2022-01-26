@@ -1,0 +1,15 @@
+# Site Settings
+title: Conception participative de tableaux de bord d’apprentissage
+email: madjid.sadallah@gmail.com
+description: >
+  
+baseurl: "/tbeiah22"
+url: "http://padlad.github.io"
+twitter_username: smadjid
+github_username:  smadjid
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
