@@ -15,5 +15,5 @@ Dans le cadre de cet atelier, nous souhaitons avancer sur la capitalisation de c
 
 ## Déroulement
 Cet atelier participatif est ouvert à tous. Les participants invités présenteront leurs retours d’expérience sur l’usage d’outils de conception participative de tableaux de bord d’apprentissage et pourront proposer des méthodes complémentaires issues de leurs disciplines. 
-Dans un second temps, un atelier participatif permettra d’étudier les différentes propositions pour permettre d’explorer comment répondre aux différents usages identifiés. 
+Dans un second temps, des ateliers participatifs permettront d’étudier les différentes propositions  autour de l’évaluation, de l’adaptation et du processus qualité des tableaux de bord d’apprentissage.
 
