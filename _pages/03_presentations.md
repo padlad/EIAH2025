@@ -29,7 +29,7 @@ Lors de la conception des tableaux de bords, les enseignants demandent souvent d
 ### LADStudio : spécification et génération de TBAs par et pour leurs utilisateurs
 Par **Madjid Sadallah** - *IMT Atlantique / labSTICC*
 
-LADStudio est une tentative pour concevoir un outil auteur de spécification declarative et assistée de TBAs et de génération de prototypes intermédiaires. Se basant sur un espace de conception raffinée, son module de spécification permet de décrire le processus décisionnel visé. Aussi, une bibltiothèque de composants de différents granularité permet non seulement la réutilisation, mais aussi la capitalisation sur les TBAs et morceaux de TBAs conçus.
+LADStudio est une tentative pour concevoir un outil auteur de spécification déclarative et assistée de TBAs et de génération de prototypes intermédiaires. Se basant sur un espace de conception raffinée, son module de spécification permet de décrire le processus décisionnel visé. Aussi, une bibliothèque de composants de différentes granularité permet non seulement la réutilisation, mais aussi la capitalisation sur les tableaux de bord produits.
 
 ---
 ### Tableaux de Bord pour la performance en Enseignement Supérieur : entre besoins et contraintes
