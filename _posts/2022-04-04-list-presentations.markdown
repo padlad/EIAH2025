@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Liste des présentations"
-date:   2021-04-04 10:20:30
+date:   2022-04-04 10:20:30
 categories: presentations 
 abstract: "Un ensemble de participants invités donneront des présentation durant la première partie de l'atelier"
 ---
