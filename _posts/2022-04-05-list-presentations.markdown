@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Liste de presentations"
-date:   2022-04-05 10:23:09
-categories: welcome 
+title:  "Liste des présentations"
+date:   2021-04-04 10:20:30
+categories: presentations 
+abstract: "Un ensemble de participants invités donneront des présentation durant la première partie de l'atelier"
 ---
-Un ensemble de participants invités donneront des présentation durant la première partie de l’atelier. 
-La liste des présentations et des orateurs est maintenant disponible sur la page [Presentations](https://padlad.github.io/RJC-EIAH2022/presentations/)
+Un ensemble de participants invités donneront des présentation durant la première partie de l'atelier. 
+La liste des présentations et des orateurs est maintenant disponible sur la page "[Présentations](https://padlad.github.io/RJC-EIAH2022/presentations/)".
