@@ -10,7 +10,7 @@ Un ensemble de participants invités donneront des présentations au cours de la
 Par **Sébastien Iksal** - *LIUM / Le Mans Université*
 
 ---
-### PaDLAD : un outil de conception participative de tableaux de bord d'apprentissage favorisant l'expression du processus de sensemaking et de prise de décision
+### PaDLAD : un outil de conception participative de tableaux de bord ...
 Par **Jean-Marie Gilliot** - *IMT Atlantique / LabSTICC*
 
 ---
@@ -41,7 +41,7 @@ Lors de la conception des tableaux de bords, les enseignants demandent souvent d
 
 ---
 
-### LADStudio : spécification et génération de TBAs par et pour leurs utilisateurs
+### LADStudio : spécification et génération de tableaux de bord par et pour leurs les parties prenantes
 Par **Madjid Sadallah** - *IMT Atlantique / labSTICC*
 
 <details>
