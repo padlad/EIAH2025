@@ -5,13 +5,16 @@ permalink: /comite/
 ---
 
 ## Responsables de l'atelier
-#### Sébastien IKSAL – Professeur  – LIUM/Le Mans Université
+#### Sébastien IKSAL – LIUM/Le Mans Université
 Sébastien IKSAL est [Professeur en informatique à l'Université du Mans (IUT de Laval - Dépt. MMI)](https://lium.univ-lemans.fr/team/sebastien-iksal/)  depuis 2003 et [Responsable de l'équipe IEIAH du LIUM](http://rech-iksal.iut-laval.univ-lemans.fr/site/) de Laval.
 
-#### Katia QUELENNEC – Doctorante – LIP6/Université de Lille
+
+#### Madjid SADALLAH –  IMT Atlantique/Lab-STICC
+Madjid SADALLAH est docteur en informatique de l'Université de Béjaia (Algérie). Il est post-doctorant au sein de l'équipe [MOTEL](https://labsticc.fr/fr/equipes/motel) à IMT Atlantique / Lab-STICC
 
 
-#### Madjid SADALLAH – Post-Doctorant – IMT Atlantique/Lab-STICC
+#### Katia QUELENNEC –  LIP6/Université de Lille
+
 
 
 ## Participants invités (liste provisoire)
