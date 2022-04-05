@@ -4,10 +4,10 @@ title: Présentations
 permalink: /presentations/
 ---
 # Liste des présentations durant l'atelier
-Un ensemble de participants invités donneront des présentation au cours de la première partie de l'atelier. 
+Un ensemble de participants invités donneront des présentations au cours de la première partie de l'atelier. 
 
 ### Introduction de l'atelier
-Par **Sebastien Iksel** - *LIUM / Le Mans Université*
+Par **Sébastien Iksal** - *LIUM / Le Mans Université*
 
 ---
 ### PaDLAD : un outil de conception participative de tableaux de bord d'apprentissage favorisant l'expression du processus de sensemaking et de prise de décision
@@ -23,7 +23,7 @@ Ce retour d'expérience présentera le déroulement et les résultats des sessio
 ### Construction d’indicateurs pour détecter des stratégies d'écriture collaborative dans des documents textes
 Par **Anis Mohamed Haddouche** - *IMT Atlantique / labSTICC*
 
-Lors de la conception des tableaux de bords, les enseignants demandent souvent des indicateurs pour suivre la collaboration entre les étudiants. Nos travaux nous ont conduits à élaborer des indicateurs pour détecter des stratégies d’écriture collaborative sur des documents textes. L’élaboration de ces indicateurs est difficile car il est nécessaire de combiner différents outils de traitement des données et de valider ces indicateurs. Notre présentation focalisera sur le processus de construction et de validation des ces indicateurs entre statisticien et enseignants. 
+Lors de la conception des tableaux de bords, les enseignants demandent souvent des indicateurs pour suivre la collaboration entre les étudiants. Nos travaux nous ont conduits à élaborer des indicateurs pour détecter des stratégies d’écriture collaborative sur des documents textes. L’élaboration de ces indicateurs est difficile car il est nécessaire de combiner différents outils de traitement des données et de valider ces indicateurs. Cette présentation se focalisera sur le processus de construction et de validation des ces indicateurs entre statisticien et enseignants. 
 
 ---
 ### LADStudio : spécification et génération de TBAs par et pour leurs utilisateurs
