@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Liste de presentations"
-date:   2022-01-26 11:10:45
+date:   2022-04-05 10:23:09
 categories: welcome 
 ---
 Un ensemble de participants invités donneront des présentation durant la première partie de l’atelier. 
