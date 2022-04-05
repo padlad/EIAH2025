@@ -41,7 +41,7 @@ Lors de la conception des tableaux de bords, les enseignants demandent souvent d
 
 ---
 
-### LADStudio : spécification et génération de tableaux de bord par et pour leurs les parties prenantes
+### LADStudio de la description des usages à la génération assistée de tableaux de bord par et pour les utilisateurs finaux
 Par **Madjid Sadallah** - *IMT Atlantique / labSTICC*
 
 <details>
