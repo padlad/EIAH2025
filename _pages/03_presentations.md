@@ -10,8 +10,12 @@ Un ensemble de participants invités donneront des présentations au cours de la
 Par **Sébastien Iksal** - *LIUM / Le Mans Université*
 
 ---
-### PaDLAD : un outil de conception participative de tableaux de bord ...
+### PaDLAD : un outil de conception participative de tableaux de bord 
 Par **Jean-Marie Gilliot** - *IMT Atlantique / LabSTICC*
+
+---
+### Projet TdBP (Tableau de Bord Pédagogique) BoardZ
+Par **Thierry Spriet** - *Centre d'Enseignement et de Recherche en Informatique (CERI) / Laboratoire Informatique d'Avignon*
 
 ---
 
