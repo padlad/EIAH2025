@@ -10,12 +10,13 @@ Un ensemble de participants invités donneront des présentations au cours de la
 Par **Sébastien Iksal** - *LIUM / Le Mans Université*
 
 ---
-### PaDLAD : un outil de conception participative de tableaux de bord 
-Par **Jean-Marie Gilliot** - *IMT Atlantique / LabSTICC*
-
----
 ### Projet TdBP (Tableau de Bord Pédagogique) BoardZ
 Par **Thierry Spriet** - *Centre d'Enseignement et de Recherche en Informatique (CERI) / Laboratoire Informatique d'Avignon*
+
+---
+### PaDLAD : un outil de conception participative de tableaux de bord 
+Par **Jean-Marie Gilliot** - *IMT Atlantique / Lab-STICC*
+
 
 ---
 
@@ -24,7 +25,7 @@ Par **Walter Nuninger** - *Univ. Lille, CNRS, Centrale Lille, UMR 9189 CRIStAL, 
 
 <details>
 <summary>Résumé</summary>
-La performance en Enseignement Supérieur repose sur une offre de formation efficiente, inclusive et accessible tout au long de la vie. Elle doit intégrer l'expérience professionnelle individuelle dans la conception des parcours pour soutenir l'employabilité et les enjeux sociétaux (RSE). Les tableaux de bords prospectifs (TdP) répondent à cette stratégie en alliant toutes les dimensions, dont la gestion des compétences. L'évolution du numérique et l'accès aux données en grand nombre est une opportunité au service de formations plus ouvertes qui suivent des parcours personnalisés en lien avec les financeurs (client, coût, processus). Les tableaux bords administratifs (TbA) répondent à l'objectif du suivi et de qualité de la réalisation des formations (procédé). Lors de la réalisation diplômante, l'apprentissage doit pouvoir être mesuré. La performance d'apprentissage en situations formatives (activités pédagogiques dans le cours et/ou expérience professionnelle comme en alternance intégrative) demande à être discutée avec les parties prenantes : étudiants et apprenants acteurs, formateurs guidant et tuteurs experts accompagnants. Les tableaux de bords formatifs (TdB) visualisent alors des indicateurs jugés pertinents dans le contexte. Les dispositifs basés sur le numérique, permettent de générer des traces qu'il convient de collecter, sélectionner et traiter pour comprendre et optimiser l'apprentissage. Les objectifs sont de complexité graduelle : depuis des jalons d'avancement (suivi du scénario et des activités), le guidage semi-automatique vers des ressources, la rétroaction sur l'activité ou le dispositif (régulation), et la facilitation de l'interaction de face-à-face dans le cadre du cours inversé et l'accompagnement (leviers à prioriser), pour aboutir à une évaluation partagée des compétences. Ce cadre ainsi défini, l'intérêt pour l'évaluation par les pairs est précisé. Enfin, un retour d'expérience est fait suite à un groupe de travail de tuteurs-accompagnant pour la conception d'une interface utile à leurs missions. Le but est de montrer l'intérêt de développer une visualisation adaptée au besoin avec les usagers, tout en soulignant les contraintes (RGPD) et difficultés liées à l'implantation lorsqu'elle est soutenue. En ouvrant ces perspectives, l'adaptation sera forcément locale pour un objectif d'usage clair qui modifie les pratiques professionnelles mais soutient l'interaction collective éthique dans une communauté de pratiques et une organisation apprenante.
+La performance en Enseignement Supérieur repose sur une offre de formation efficiente, inclusive et accessible tout au long de la vie. Elle doit intégrer l’expérience professionnelle individuelle dans la conception des parcours pour soutenir l’employabilité et les enjeux sociétaux (RSE). Les tableaux de bords prospectifs (TdBP) répondent à cette stratégie en alliant toutes les dimensions, dont la gestion des compétences. L’évolution du numérique et l’accès aux données en grand nombre est une opportunité au service de formations plus ouvertes qui suivent des parcours personnalisés en lien avec les financeurs (client, coût, processus). Les tableaux bords administratifs (TdBA) répondent à l’objectif du suivi et de qualité de la réalisation des formations (procédé). Lors de la réalisation diplômante, l’apprentissage doit pouvoir être mesuré. La performance d’apprentissage en situations formatives (activités pédagogiques dans le cours et/ou expérience professionnelle comme en alternance intégrative) demande à être discutée avec les parties prenantes : étudiants et apprenants acteurs, formateurs guidant et tuteurs experts accompagnants. Les tableaux de bords formatifs (TdBF) visualisent alors des indicateurs jugés pertinents dans le contexte. Les dispositifs basés sur le numériques, permettent de générer des traces qu’il convient de collecter, sélectionner et traiter pour comprendre et optimiser l’apprentissage. Les objectifs sont de complexité graduelle : depuis des jalons d’avancement (suivi du scénario et des activités), le guidage semi-automatique vers des ressources, la rétroaction sur l’activité ou le dispositif (régulation), et la facilitation de l’interaction de face-à-face dans le cadre du cours inversé et l’accompagnement (leviers à prioriser), pour aboutir à une évaluation partagée des compétences. Ce cadre ainsi défini, l’intérêt pour l’évaluation par les pairs est précisé. Enfin, un retour d’expérience est fait suite à un groupe de travail de tuteurs-accompagnant pour la conception d’une interface utile à leurs missions. Le but est de montrer l’intérêt de développer une visualisation adaptée au besoin avec les usagers, tout en soulignant les contraintes (RGPD) et difficultés liées à l’implantation lorsqu’elle est soutenue. En ouvrant ces perspectives, l’adaptation sera forcément locale pour un objectif d’usage clair qui modifie les pratiques professionnelles mais soutient l’interaction collective éthique dans une communauté de pratiques et une organisation apprenante. 
 </details>
 
 ---
@@ -37,7 +38,7 @@ Ce retour d'expérience présentera le déroulement et les résultats des sessio
 
 ---
 ### Construction d’indicateurs pour détecter des stratégies d'écriture collaborative dans des documents textes
-Par **Anis Mohamed Haddouche** - *IMT Atlantique / labSTICC*
+Par **Anis Mohamed Haddouche** - *IMT Atlantique / lab-STICC*
 <details>
 <summary>Résumé</summary>
 Lors de la conception des tableaux de bords, les enseignants demandent souvent des indicateurs pour suivre la collaboration entre les étudiants. Nos travaux nous ont conduits à élaborer des indicateurs pour détecter des stratégies d’écriture collaborative sur des documents textes. L’élaboration de ces indicateurs est difficile car il est nécessaire de combiner différents outils de traitement des données et de valider ces indicateurs. Cette présentation se focalise sur le processus de construction et de validation des ces indicateurs entre statisticiens et enseignants. 
