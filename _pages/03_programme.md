@@ -7,7 +7,7 @@ permalink: /programme/
 
 
 ## Programme de la matinée 
-Un ensemble de participants invités donneront des présentations au cours de la première partie de l'atelier (détails sur la page "Présentation"). 
+Un ensemble de participants invités donneront des présentations au cours de la première partie de l'atelier (détails sur la page "[Présentations](https://padlad.github.io/RJC-EIAH2022/presentations/)"). 
 
 
 
