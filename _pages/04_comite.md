@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organisation et participation
+title: Organisation
 permalink: /comite/
 ---
 
