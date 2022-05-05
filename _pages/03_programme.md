@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Présentations 
+title: Programme 
 permalink: /programme/
 ---
 # Programme de la journée
