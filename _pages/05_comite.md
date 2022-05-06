@@ -19,7 +19,6 @@ Madjid SADALLAH est docteur en informatique de l'Université de Béjaia (Algéri
 
 ## Participants invités (liste provisoire)
 *	Olivier Aubert – Ingénieur de recherche – Université de Nantes
-*	Hassina El Kechai – Maître de conférences – Université de Poitiers / Techne (sous réserve)
 *	Jean-Marie Gilliot – Maître de conférences – IMT Atlantique/labSTICC
 *	Sébastien Iksal - Maître de conférences – LE MANS Université  /LIUM
 *	Katia Quelennec - doctorante - Université de Lille/LIP6
