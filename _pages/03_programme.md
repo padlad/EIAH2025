@@ -6,7 +6,7 @@ permalink: /programme/
 # Programme de la journée
 
 
-## Programme de la matinée 
+## Matinée (9h - 12h30)
 Un ensemble de participants invités donneront des présentations au cours de la première partie de l'atelier (détails sur la page "[Présentations](https://padlad.github.io/RJC-EIAH2022/presentations/)"). 
 
 
@@ -37,7 +37,7 @@ Par **Madjid Sadallah** - *IMT Atlantique / lab-STICC*
 
 ---
 
-## Programme de l'après-midi
+## Après-midi (14h - 17h)
 Durant l'après-midi, des ateliers participatifs permettront d’étudier les différentes propositions autour de l’évaluation, de l’adaptation et du processus qualité des tableaux de bord d’apprentissage.
 
 14h00 : Présentation du déroulé de cette seconde partie.
