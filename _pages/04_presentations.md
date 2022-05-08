@@ -47,7 +47,7 @@ Lors de la conception des tableaux de bords, les enseignants demandent souvent d
 
 ---
 
-### (12:00 - 12:30) LADStudio de la description des usages à la génération assistée de tableaux de bord par et pour les utilisateurs finaux
+### (12:00 - 12:30) LADStudio : outil de co-conception générative et de prototypage assisté de tableaux de bord d'apprentissage
 Par **Madjid Sadallah** - *IMT Atlantique / labSTICC*
 
 <details>
