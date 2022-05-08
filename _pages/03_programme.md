@@ -31,7 +31,7 @@ Par **Katia Quelennec** - *Université de Lille / LIP6*
 11h30 (visio) : Construction d’indicateurs pour détecter des stratégies d’écriture collaborative dans des documents textes
 Par **Anis Mohamed Haddouche** - *IMT Atlantique / lab-STICC*
 
-12h00 : LADStudio de la description des usages à la génération assistée de tableaux de bord par et pour les utilisateurs finaux.
+12h00 : LADStudio : outil de co-conception générative et de prototypage assisté de tableaux de bord d'apprentissage.
 Par **Madjid Sadallah** - *IMT Atlantique / lab-STICC*
 
 
