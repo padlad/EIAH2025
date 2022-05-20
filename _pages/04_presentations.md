@@ -32,7 +32,7 @@ La performance en Enseignement Supérieur repose sur une offre de formation effi
 *(Pause entre 10:40 et 11:00)*
 ---
 
-### (11:00 - 11:30) Recueil des besoins TBA étudiants avec des sessions de co-design
+### (11:00 - 11:30) [Recueil des besoins TBA étudiants avec des sessions de co-design](https://view.genial.ly/627225446f4beb001852446f)
 Par **Katia Quelennec** - *Université de Lille / LIP6*
 <details>
 <summary>Résumé</summary>
