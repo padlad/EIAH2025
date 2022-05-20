@@ -6,11 +6,11 @@ permalink: /presentations/
 # Liste des présentations durant l'atelier
 Un ensemble de participants invités donneront des présentations au cours de la première partie de l'atelier. 
 
-### (09:00 - 09:10) Introduction de l'atelier
+### (09:00 - 09:10) [Introduction de l'atelier](https://padlad.github.io/RJC-EIAH2022/img/Sebastien Iksal - intro atelier.pdf)
 Par **Sébastien Iksal** - *LIUM / Le Mans Université*
 
 ---
-### (09:10 - 09:40, par visio) Projet TdBP (Tableau de Bord Pédagogique) BoardZ
+### (09:10 - 09:40, par visio) [Projet TdBP (Tableau de Bord Pédagogique) BoardZ](https://padlad.github.io/RJC-EIAH2022/img/Thierry SPRIET - BoardZ.pdf)
 Par **Thierry Spriet** - *Centre d'Enseignement et de Recherche en Informatique (CERI) / Laboratoire Informatique d'Avignon*
 
 ---
@@ -20,7 +20,7 @@ Par **Jean-Marie Gilliot** - *IMT Atlantique / Lab-STICC*
 
 ---
 
-### (10:10 - 10:40) Tableaux de Bord pour la performance en Enseignement Supérieur : entre besoins et contraintes
+### (10:10 - 10:40) [Tableaux de Bord pour la performance en Enseignement Supérieur : entre besoins et contraintes](https://padlad.github.io/RJC-EIAH2022/img/Nuninger-Atelier_TDB2022-mai11.pdf)
 Par **Walter Nuninger** - *Univ. Lille, CNRS, Centrale Lille, UMR 9189 CRIStAL, F-9000 Lille*
 
 <details>
