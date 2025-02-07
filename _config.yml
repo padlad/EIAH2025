@@ -1,13 +1,13 @@
 # Site Settings
-title: Conception et évaluation de tableaux de bord d’apprentissage
-subtitle: "Atelier RJC-EIAH 2022"
-email: madjid.sadallah@gmail.com
+title: Visualiser des indicateurs de compétences : objectifs et verrous
+subtitle: "Atelier EIAH 2025"
+email: jm.gilliot@imt-atlantique.fr
 description: >
   
-baseurl: "https://padlad.github.io/RJC-EIAH2022"
-url: "https://padlad.github.io/RJC-EIAH2022"
-twitter_username: smadjid
-github_username:  smadjid
+baseurl: "https://padlad.github.io/EIAH2025"
+url: "https://padlad.github.io/EIAH2025"
+twitter_username: jmgilliot
+github_username:  jmgilliot
 # Build Settings
 sass:
   sass_dir: _sass
