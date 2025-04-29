@@ -12,16 +12,12 @@ permalink: /programme/
 
 **Intervenants :** Rémi Venant, Nicolas Ballier, Cyriel Mallart, Andrew Simpkin, Bernardo Stearns, Jen-Yu Li et Thomas Gaillat
 
-A4LL est un système d’assistance à l’évaluation formative des écrits dirigée par le référentiel de compétences du CECR.
-Le système offre un ensemble de modèles d'IA couplé une application LTI intégrable directement dans un LMS pour l'édition et la réalisation de tâches rédactionnelles qui, une fois réalisées, peuvent être analyseés sous le prisme du CECR dans un tableau de bord d'apprentissage (TBA).
+A4LL est un système d’assistance à l’évaluation formative des écrits dirigée par le référentiel de compétences du Cadre Européen Commun de Référence pour les langues (CECR).
+Le système offre un ensemble de modèles d'apprentissage machine couplé une application intégrable directement dans un LMS pour l'édition et la réalisation de tâches rédactionnelles qui, une fois réalisées, peuvent être analyseés sous le prisme du CECR dans un tableau de bord d'apprentissage (TBA).
 Ce dernier exploite différentes dimensions linguistiques pour la prédiction de niveau, des analyses multifactiorelles et leur synthèse sous forme de visualisations interactives pour l’enseignant. 
-Co-construit avec ses utilisateurs selon la méthode PADDLE, celui-ci offre différents niveaux d’explications en termes de niveau de compétences et de caractérisation d’unités linguistiques à consolider. 
-Ayant pour ambition de faciliter le suivi des cohortes et des individus, ainsi que la génération de feedback spécifiques et la conception de recommandations en classe, ce TBA vise à proposer une sélection automatique de mesures statistiquement pertinentes pour expliquer les évaluations automatiques d'un individu ou d'un groupe,ainsi une expression des ces mesures dans des traits langagiers compréhensibles et actionnables pour l'enseignant synthétisées dans des visualisations appropriées.
+Co-construit avec ses utilisateurs selon une démarche de Design-Based PADDLE, celui-ci offre différents niveaux d’explications en termes de niveau de compétences et de caractérisation d’unités linguistiques à consolider. 
+Ayant pour ambition de faciliter le suivi des cohortes et des individus, ainsi que la génération de feedback spécifiques et la conception de recommandations en classe, ce TBA vise à proposer une selection automatique de mesures statistiquement pertinentes pour expliquer les évaluations automatiques d'un individu ou d'un groupe,ainsi une expression des ces mesures dans des traits langagiers compréhensibles et actionnables pour l'enseignant synthétisées dans des visualisations appropriées.
 Ce système est aujourd'hui exploité et en cours d'évaluation dans le cadre de l'apprentissage de l’anglais de spécialité à l’Université.
-
-
-
-Un ensemble de participants invités donneront des présentations au cours de la première partie de l'atelier
 
 ### Tableau de bord de l’application Calcularis – de la (re)conception à l’utilisation par des enseignants
 **Intervenants :** Michel Deruaz, Céline Hugli et Jana Trgalová (UER MS, HEP Vaud, Lausanne, Suisse)
