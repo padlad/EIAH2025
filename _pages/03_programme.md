@@ -33,10 +33,10 @@ seuils pour des alertes concernant la détection des difficultés d’apprentiss
 Lors de la communication, nous présenterons l’application et le Coach, tout en mettant en évidence les principaux choix de (re)conception. Nous conclurons en rendant compte des retours des enseignants qui utilisent l’application.
 
 **Références :**
-Hugli, C., Deruaz, M., Gardes, M.-L., & Trgalová, J. (2025 – à paraître). Évaluation de l’outil numérique Calcularis pour soutenir les processus d’enseignement et d’apprentissage du calcul, en 5-6P (CE2-CM1) en Suisse. In Actes du 50e Colloque COPIRELEM.
-Tricot, A., Plégat-Soutjis, F., Camps, J.-F., Amiel, A., Lutz, G., & Morcillo, A. (2003). Utilité, utilisabilité, acceptabilité : interpréter les relations entre trois dimensions de l’évaluation des EIAH. In C.
+* Hugli, C., Deruaz, M., Gardes, M.-L., & Trgalová, J. (2025 – à paraître). Évaluation de l’outil numérique Calcularis pour soutenir les processus d’enseignement et d’apprentissage du calcul, en 5-6P (CE2-CM1) en Suisse. In Actes du 50e Colloque COPIRELEM.
+* Tricot, A., Plégat-Soutjis, F., Camps, J.-F., Amiel, A., Lutz, G., & Morcillo, A. (2003). Utilité, utilisabilité, acceptabilité : interpréter les relations entre trois dimensions de l’évaluation des EIAH. In C.
 Desmoulins, P. Marquet and D. Bouhineau (Eds.), Actes de la conférence EIAH 2003 (pp. 391-402). ATIEF, INRP.
-Van Leeuwen, A., & Rummel, N, (2020). Comparing teachers' use of mirroring and advising dashboards. In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (LAK’20) (pp. 26-34). Frankfurt, Germany.
+* Van Leeuwen, A., & Rummel, N, (2020). Comparing teachers' use of mirroring and advising dashboards. In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (LAK’20) (pp. 26-34). Frankfurt, Germany.
 
 
 ## Seconde partie (11h - 12h30)
