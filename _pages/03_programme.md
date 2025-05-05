@@ -38,6 +38,16 @@ Lors de la communication, nous présenterons l’application et le Coach, tout e
 Desmoulins, P. Marquet and D. Bouhineau (Eds.), Actes de la conférence EIAH 2003 (pp. 391-402). ATIEF, INRP.
 * Van Leeuwen, A., & Rummel, N, (2020). Comparing teachers' use of mirroring and advising dashboards. In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (LAK’20) (pp. 26-34). Frankfurt, Germany.
 
+### Tableau de bord de soutien à l’autorégulation – Prototypes et hypothèse de recherche du projet Tea-TIME
+
+**Intervenants : Christine Michel (Techné, Université de Poitiers), Rémi Venant (LIUM, Université du Mans)**
+
+Le projet Tea-TIME a pour objectif de faciliter le développement de compétences chez les enseignants pour la mise en œuvre des pédagogies fondées sur les ACA-AR : les Activités d’apprentissage intégrant l’APC (approche par compétences), fondées sur des régulations supportées par de l’IA et de l’Auto-Régulation. Un des axes de travail du projet est de poursuivre les travaux du projet COMPER en analysant comment intégrer des fonctionnalités permettant la planification des activités d’apprentissage dans les TDB existants de manière à permettre à l’enseignant de concevoir une adaptation temporelle de son dispositif, et à l’apprenant de mettre en œuvre des stratégies d’auto-régulation intégrant la planification de son apprentissage. 
+
+Trois éléments de complexité guident notre travail. Le premier est lié au fait que les TDB à concevoir doivent être actionnables c’est-à-dire qu’ils doivent offrir des fonctionnalités de supervision sur les compétences acquises au cours de la formation, mais aussi de spécification/ajustement pour les moteurs de recommandation. Le second est lié au fait que les TDB travaillent à partir des compétences acquises et pas les activités réalisées, ce qui suppose de réfléchir au niveau des objectifs pédagogiques en particulier lors de la conception des visualisations. Le troisième est lié au fait que le TDB doit intégrer, en complément des compétences disciplinaires liées à la formation, la gestion des compétences transversales d’auto-régulation de l’apprenant qui sont développées à partir de son activité d’apprentissage et de son activité de planification de son apprentissage.
+
+Dans le cadre de l’atelier, nous proposons de présenter le TDB destiné aux étudiants et qui se présente sous la forme de 3 onglets relatifs : à la gestion des compétences disciplinaires de la formation, à la réalisation de l’activité de planification pour ces apprentissages et au suivi des compétences d’auto-régulation. Le premier onglet correspond à l’outil COMPER existant. Nous présenterons plus spécifiquement nos réflexions en termes de design sur les deux autres qui sont actuellement des prototypes en cours de réalisation dans le cadre du projet Tea-TIME. 
+
 
 ## Seconde partie (11h - 12h30)
 La deuxième partie de l’atelier conduira à un approfondissement de pistes de recherches au travers d’un travail collaboratif
