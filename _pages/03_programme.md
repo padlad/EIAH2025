@@ -10,7 +10,7 @@ permalink: /programme/
 
 ### Visualisation et évaluation des compétences transversales : conception et usages de la plateforme ComPass 
 
-** Intervenante :** Linda Del Giudice
+**Intervenante :** Linda Del Giudice
 
 La plateforme ComPass est un outil de visualisation adossé à une stratégie d’évaluation des compétences transversales, le concept retenu pour celle-ci étant celui d’une mobilisation efficace des ressources disciplinaires (au sens Tardif). Dans ce contexte, deux modes d’évaluation complémentaires ont été mis en place : les ressources dites disciplinaires sont évaluées avec une note numérique (sur 20) alors que les compétences dites transversales sont évaluées avec une note alphanumérique (entre A et F).
 ComPass, qui prend la forme d’une application web, vise à exploiter la base de données de ces évaluations de compétence pour accompagner les élèves dans leur formation en leur proposant différents supports de visualisation : une rosace qui montre en temps réel le niveau des compétences déjà observées, et en fin de parcours un supplément au diplôme qui caractérise individuellement les spécificités de chaque élève. Pour faciliter l’analyse réflexive chez les élèves, nous projetons de mobiliser les Alumnis qui pourront donner corps aux différentes trajectoires possibles en identifiant les compétences majeures de quelques profils spécifiques. Cet outil permet également aux enseignants d’analyser les différentes stratégies mises en œuvre pour mobiliser chacune des compétences du référentiel au sein de toutes les actions de formation. Pour ce faire, les enseignants peuvent visualiser une synthèse des compétences observées dans un cours, comme ils peuvent observer une synthèse des cours qui évaluent une compétence.
